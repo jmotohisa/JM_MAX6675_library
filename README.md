@@ -1,7 +1,7 @@
-# JM-MAX6675-library ![Build Status](https://github.com/jmotohisa/JM_MAX6675_library)
+# JM-MAX6675-library
 
-Driver for the MAX6675 Thermocouple Amplifier: JM hook based on [Adafruit MAX31855 Thermocouple Amplifier Library](https://github.com/adafruit/Adafruit-MAX31855-li
-brary)
+Driver for the MAX6675 Thermocouple Amplifier: JM hook based on 
+[Adafruit MAX31855 Thermocouple Amplifier Library](https://github.com/adafruit/Adafruit-MAX31855-library)
 
 Original Follows:
 ## Info
